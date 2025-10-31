@@ -22,11 +22,15 @@ Fișierele `.exe` și `.wav` vor avea doar **1 KB**, deoarece GitHub folosește 
 
 ---
 
-## 🎬 Prezentare video (integrat)
+## 🎬 Prezentare video
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/2JM2sbTUuKY"
-title="Muiala AutoTyper — Prezentare oficială" frameborder="0"
-allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p align="center">
+  <a href="https://youtu.be/2JM2sbTUuKY" target="_blank">
+    <img src="https://img.youtube.com/vi/2JM2sbTUuKY/maxresdefault.jpg" width="640" alt="Muiala AutoTyper — Prezentare oficială">
+  </a>
+  <br>
+  🎥 <i>Click pe imagine pentru a viziona videoclipul complet</i>
+</p>
 
 ---
 
