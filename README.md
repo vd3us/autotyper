@@ -34,7 +34,7 @@ Fișierele `.exe` și `.wav` vor avea doar **1 KB**, deoarece GitHub folosește 
 
 ---
 
-## 🌀 Demo animat
+## 🌀 Adeus
 
 <img src="https://media.discordapp.net/attachments/1339835303443173428/1433794778734002186/muiala.gif?ex=6905fcf1&is=6904ab71&hm=36f011ccb675f3f5b503aaf2c3cd619623ce75a155666ddf34858d43a2011d82&=" width="500" alt="Muiala Demo">
 
