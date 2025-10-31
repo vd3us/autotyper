@@ -6,6 +6,14 @@ Acest ghid scurt te va ajuta să înțelegi cum se folosește aplicația și cum
 
 ---
 
+## 🎬 Prezentare Video
+
+[![Urmărește prezentarea pe YouTube](https://img.youtube.com/vi/2JM2sbTUuKY/maxresdefault.jpg)](https://youtu.be/2JM2sbTUuKY)
+
+📺 *Click pe imagine pentru a viziona video-ul complet de prezentare al aplicației Muiala AutoTyper.*
+
+---
+
 ## 📦 Ce conține pachetul
 
 Asigură-te că păstrezi toate fișierele aplicației într-un singur folder.  
@@ -36,13 +44,9 @@ Fișierele minime necesare sunt:
 
 - Fiecare linie reprezintă o propoziție sau un cuvânt care va fi tastat.  
 - Exemplu:
-  ```
-  Salut lume
-  Acesta este un test
-  Alt rând de text
-  ```
+
 - AutoTyper-ul selectează un **bloc aleatoriu de linii** (implicit între **25 și 45** de linii pe mesaj)  
-  👉 tastează fiecare linie pe rând, folosind `Shift+Enter` între ele și `Enter` la finalul blocului.  
+👉 tastează fiecare linie pe rând, folosind `Shift+Enter` între ele și `Enter` la finalul blocului.  
 - 💡 **Sfat:** evită rândurile goale sau caractere ciudate — păstrează o linie = un mesaj curat.
 
 ---
