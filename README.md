@@ -3,7 +3,7 @@
 <img src="https://media.discordapp.net/attachments/1339835303443173428/1433795101230104646/muialalogo.png?ex=6905fd3e&is=6904abbe&hm=1a7f298e4f6f9be010b9afb41a3617f68ecca36d20ab2e659127a9877642effe&=&format=webp&quality=lossless" width="180" alt="Muiala Logo">
 
 # 🩸 MUIALA — AutoTyper Oficial 🇷🇴
-** Creat de Adeus 🧛‍♂️ **
+**Creat de Adeus 🧛‍♂️**
 
 *Aplicație automată de tastare cu muzică de fundal, design custom și efecte vizuale.*
 
